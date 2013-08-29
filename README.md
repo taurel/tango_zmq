@@ -3,6 +3,10 @@ tango_zmq
 
 Experiment ZMQ to replace CORBA in Tango CS
 
+Prerequisites:
+- Get Czmq from its web site (http://czmq.zeromq.org/) and compile it
+
+
 There are only two files in this project:
  - clnt.c which simulates a client
  - svr.c which simulates a server
