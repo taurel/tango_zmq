@@ -83,5 +83,10 @@ Work to be done or points to be analyzed (some are big tasks, some are small tas
 
 - DS command line option to start DS on a specific port (like ORBendPoint)
 
+- A scavanger thread to close unused connections (Think of DB server)
+
+- Choose string encoding (LATIN-1 / UTF 8). Support several ?
+
+
 
 	
